@@ -362,7 +362,7 @@ Each day contains:
 
 ### 🔹 SQL Query
 
-[Open SQL File](2026-05-0007_SQL_037.sql)
+[Open SQL File](2026-05-007_SQL_037.sql)
 
 ### 🔹 Output Screenshot
 
@@ -374,7 +374,7 @@ Each day contains:
 
 ### 🔹 SQL Query
 
-[Open SQL File](2026-05-08_SQL_038.sql)
+[Open SQL File](2026-05-008_SQL_038.sql)
 
 ### 🔹 Output Screenshot
 
