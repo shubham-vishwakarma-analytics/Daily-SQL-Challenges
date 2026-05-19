@@ -498,7 +498,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-018_SQL_048.png)
+![SQL Output](2026-05-18_SQL_048.png)
 
 ---
 
@@ -510,7 +510,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-019_SQL_049.png)
+![SQL Output](2026-05-19_SQL_049.png)
 
 ---
 
