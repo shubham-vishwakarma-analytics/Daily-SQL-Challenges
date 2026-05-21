@@ -546,7 +546,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-22_SQL_052.png)
+![SQL Output](2026-05-022_SQL_052.png)
 
 ---
 
@@ -558,7 +558,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-23_SQL_053.png)
+![SQL Output](2026-05-023_SQL_053.png)
 
 ---
 
@@ -570,7 +570,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-24_SQL_054.png)
+![SQL Output](2026-05-024_SQL_054.png)
 
 ---
 
@@ -582,7 +582,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-25_SQL_055.png)
+![SQL Output](2026-05-025_SQL_055.png)
 
 ---
 
@@ -594,7 +594,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-26_SQL_056.png)
+![SQL Output](2026-05-026_SQL_056.png)
 
 ---
 
@@ -606,7 +606,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-27_SQL_057.png)
+![SQL Output](2026-05-027_SQL_057.png)
 
 ---
 
@@ -618,7 +618,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-28_SQL_058.png)
+![SQL Output](2026-05-028_SQL_058.png)
 
 ---
 
@@ -630,7 +630,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-29_SQL_059.png)
+![SQL Output](2026-05-029_SQL_059.png)
 
 ---
 
@@ -642,7 +642,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-30_SQL_060.png)
+![SQL Output](2026-05-030_SQL_060.png)
 
 ---
 
